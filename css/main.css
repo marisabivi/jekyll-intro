@@ -14,5 +14,9 @@ html {
 }
 
 *, *::before, *::after {
- box-sizing: inherit;   
+ box-sizing: inherit;  
+    
+    background-color: aquamarine;
+    font-family: sans-serif;
 }
+
